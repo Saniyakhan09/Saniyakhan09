@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Building AI-powered applications and strengthening my backend skills using Node.js, Express, and databases like MongoDB.**
 
-- 👨‍💻 All of my projects are available at [https://saniyadevporfolio.netlify.app/](https://saniyadevporfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://saniyawebs.netlify.app/](https://saniyawebs.netlify.app/)
 
 - 💬 Ask me about **React, GSAP animations, creating modern front-end designs, and backend development**
 
